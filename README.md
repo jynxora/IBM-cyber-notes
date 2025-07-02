@@ -11,4 +11,5 @@ These are my Structured notes from the IBM 10-part Cybersecurity Architecture vi
 📎 [Download the PDF](notes/IBM_notes.pdf)
 
 🗂️ [Download PDF (Direct)](https://github.com/jynxora/IBM-cyber-notes/raw/main/notes/IBM_notes.pdf)
+
 — 🛠️ Created & curated by Jinay (aka Jynx)
